@@ -3,10 +3,46 @@ layout: page
 title: User Guide
 ---
 
-App-Ointment is a desktop app for for managing and scheduling patient appointments, optimized for use via a Command Line Interface (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, App-Ointment can get your contact management tasks done faster than traditional GUI apps.
+App-Ointment is a desktop app for managing and scheduling patient appointments, optimized for use via a Command Line Interface (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, App-Ointment can get your contact management tasks done faster than traditional GUI apps.
 
-* Table of Contents
-{:toc}
+## Table of Contents 
+1. Quick start
+2. Features:
+
+    * Add a patient **`add-patient`**
+    * Clear patients **`clear-patient`**
+    * Delete a patient **`delete-patient`**
+    * Edit a patient **`edit-patient`**
+    * Find a patient **`find-patient`**
+    * List all patients **`list-patient`**
+    * Add a doctor **`add-doctor`**
+    * Clear doctors **`clear-doctor`**
+    * Delete a doctor **`delete-doctor`**
+    * Edit a doctor **`edit-doctor`**
+    * Find a doctor **`find-doctor`**
+    * List all doctors **`list-doctor`**
+    * Add an appointment **`add-appt`**
+    * Clear appointments **`clear-appt`**
+    * Delete an appointment **`delete-appt`**
+    * Edit an appointment **`edit-appt`**
+    * Find an appointment **`find-appt`**
+    * List all appointment **`list-appt`**
+
+2. Overall commands:
+
+    * Exiting the program **`exit`**
+    * viewing help **`help`**
+    * Toggle user inputs
+    * Saving the data
+    * Editing the data file
+    
+3. Frequently Asked Questions
+4. Command Summary
+    
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------
 
