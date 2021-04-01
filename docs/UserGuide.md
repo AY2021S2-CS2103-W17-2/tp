@@ -57,7 +57,7 @@ App-Ointment is a desktop app for managing and scheduling patient appointments, 
 1. Double-click the file to start the app. The GUI similar to the below should appear in a few seconds. Note how the app contains some sample data. The Ui contains 3 
    main panels where the doctor list, patient list and appointment list are shown. Updates to the 3 lists will 
    be shown in their respective panels. The order of the lists follows top to bottom order, i.e. the most recent item will be on the top of the lists <br>
-   ![Ui](images/Ui explanation.png)
+   ![Ui](images/Ui.png)
 
 1. Type the command in the command box and press Enter to execute it. e.g. typing **`help`** and pressing Enter will open the help window.<br>
    Some example commands you can try:
