@@ -19,7 +19,7 @@ public class JsonSerializablePatientRecordsTest {
     private static final Path TEST_DATA_FOLDER = Paths.get("src", "test", "data",
             "JsonSerializablePatientRecordsTest");
     private static final Path TYPICAL_PATIENTS_FILE = TEST_DATA_FOLDER.resolve("typicalPatientRecords.json");
-    private static final Path INVALID_PATIENTS_FILE = TEST_DATA_FOLDER.resolve("invalidPatientRecords.json");
+    private static final Path INVALID_PATIENTS_FILE = TEST_DATA_FOLDER.resolve("invalidDoctorRecords.json");
     private static final Path DUPLICATE_PATIENTS_FILE = TEST_DATA_FOLDER.resolve("duplicatePatientRecords.json");
 
     @Test
